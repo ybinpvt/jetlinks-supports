@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.jetlinks:jetlinks-core:1.1.4-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetlinks/jetlinks-core/1.1.4-SNAPSHOT/jetlinks-core-1.1.4-20201127.053746-46.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetlinks/jetlinks-core/1.1.4-SNAPSHOT/jetlinks-core-1.1.4-20201127.053746-46-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetlinks/jetlinks-core/1.1.4-SNAPSHOT/jetlinks-core-1.1.4-20201127.053746-46-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
