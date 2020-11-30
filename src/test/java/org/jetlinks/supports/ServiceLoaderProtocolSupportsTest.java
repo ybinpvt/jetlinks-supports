@@ -12,8 +12,7 @@ public class ServiceLoaderProtocolSupportsTest {
 
     @Before
     public void init() {
-
-        //supports.init();
+        supports.init();
     }
 
     @Test

@@ -45,8 +45,7 @@ public class DefaultSendToDeviceMessageHandlerTest {
         broker = new StandaloneDeviceMessageBroker();
 
         ServiceLoaderProtocolSupports supports = new ServiceLoaderProtocolSupports();
-        //noted by ybin 2020年11月30日11点56分
-        //supports.init();
+        supports.init();
         registry = new TestDeviceRegistry(supports, broker);
 
         sessionManager.setRegistry(registry);

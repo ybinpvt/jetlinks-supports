@@ -6,20 +6,490 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77011aaa-be24-4230-8a9a-a3dd7b5aa9e9" name="Default Changelist" comment="" />
+    <list default="true" id="77011aaa-be24-4230-8a9a-a3dd7b5aa9e9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_66.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_apple_AppleJavaExtensions_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_bcel_findbugs_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_findbugs_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jFormatString_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_28_0_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_4_200.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_51_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_51_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http2_4_1_51_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_51_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_51_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_51_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_51_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_51_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_51_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_51_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_1_51_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_51_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_51_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_addons_reactor_extra_3_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_netty_reactor_netty_0_9_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_test_3_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_tools_3_3_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rsocket_rsocket_core_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rsocket_rsocket_transport_netty_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_core_v3_swagger_annotations_2_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_vavr_vavr_0_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_vavr_vavr_match_0_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jaxen_jaxen_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_californium_californium_core_2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_californium_element_connector_2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_javax_el_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hswebframework_hsweb_utils_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hswebframework_web_hsweb_core_4_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_22_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetlinks_jetlinks_core_1_1_4_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_commons_5_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_debug_all_5_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_tree_5_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_indexer_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jetlinks-supports.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/cluster/AbstractDeviceOperationBroker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/cluster/AbstractLocalCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/cluster/ClusterDeviceOperationBroker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/cluster/ClusterDeviceRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/cluster/ClusterLocalCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/cluster/EventBusDeviceOperationBroker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/cluster/EventBusLocalCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/cluster/event/AbstractClusterEventBroker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/cluster/event/RSocketAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/cluster/event/RSocketPayload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/cluster/event/RedisClusterEventBroker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/cluster/event/RedisRSocketEventBroker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/cluster/redis/DeviceCheckRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/cluster/redis/DeviceCheckResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/cluster/redis/NotifierMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/cluster/redis/NotifierMessageReply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/cluster/redis/NotifyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/cluster/redis/RedisClusterCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/cluster/redis/RedisClusterCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/cluster/redis/RedisClusterManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/cluster/redis/RedisClusterNotifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/cluster/redis/RedisClusterQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/cluster/redis/RedisClusterSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/cluster/redis/RedisClusterTopic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/cluster/redis/RedisHaManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/config/ClusterConfigStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/config/ClusterConfigStorageManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/config/EventBusStorageManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/config/InMemoryConfigStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/config/InMemoryConfigStorageManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/event/BrokerEventBus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/event/EventBroker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/event/EventConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/event/EventConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/event/EventProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/official/JetLinksAuthenticator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/official/JetLinksCoapDTLSDeviceMessageCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/official/JetLinksCoapDeviceMessageCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/official/JetLinksDataTypeCodecs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/official/JetLinksDeviceFunctionMetadata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/official/JetLinksDeviceMetadata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/official/JetLinksDeviceMetadataCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/official/JetLinksEventMetadata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/official/JetLinksMqttDeviceMessageCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/official/JetLinksPropertyMetadata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/official/JetLinksProtocolSupportProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/official/JetlinksTopicMessageCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/official/cipher/Ciphers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/official/types/AbstractDataTypeCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/official/types/JetLinksArrayCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/official/types/JetLinksBooleanCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/official/types/JetLinksDateCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/official/types/JetLinksDoubleCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/official/types/JetLinksEnumCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/official/types/JetLinksFileCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/official/types/JetLinksFloatCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/official/types/JetLinksGeoPointCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/official/types/JetLinksGeoShapeCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/official/types/JetLinksIntCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/official/types/JetLinksLongCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/official/types/JetLinksObjectCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/official/types/JetLinksPasswordCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/official/types/JetLinksStringCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/DefaultMqttMessageCodecDescription.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/ServiceLoaderProtocolSupports.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/StaticProtocolSupports.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/codec/BinaryCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/codec/BinaryCodecs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/codec/BinaryDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/codec/BinaryEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/codec/BlockingDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/codec/BlockingDecoderBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/codec/BlockingDeviceMessageCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/codec/BlockingEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/codec/CodecPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/codec/DefaultBlockingDecoderBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/codec/Endian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/codec/defaults/AppendBinaryDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/codec/defaults/BooleanCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/codec/defaults/ByteCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/codec/defaults/FixedValueDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/codec/defaults/HexStringCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/codec/defaults/Ieee754DoubleCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/codec/defaults/Ieee754FloatCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/codec/defaults/LongCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/codec/defaults/MapBinaryDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/codec/defaults/MapDecoderBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/codec/defaults/StringCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/codec/defaults/TwoBytesFloatCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/codec/defaults/TwoBytesHexFloatCodec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/management/ClusterProtocolSupportManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/management/ManagementProtocolSupports.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/management/MultiProtocolSupportLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/management/ProtocolSupportDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/management/ProtocolSupportLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/management/ProtocolSupportLoaderProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/management/ProtocolSupportManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/management/jar/JarProtocolSupportLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/management/jar/ProtocolClassLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/rpc/DefaultRpcServiceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/rpc/EventBusRpcService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/rpc/RpcRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/rpc/RpcResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/server/ClientMessageHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/server/DecodedClientMessageHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/server/DefaultClientMessageHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/server/DefaultDecodedClientMessageHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/server/DefaultSendToDeviceMessageHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/server/monitor/MicrometerGatewayServerMetrics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/server/session/DefaultDeviceSessionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/utils/MqttTopicUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/services/org.jetlinks.core.spi.ProtocolSupportProvider" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jetlinks/supports/ServiceLoaderProtocolSupportsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jetlinks/supports/TestDeviceSession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jetlinks/supports/cluster/ClusterDeviceOperationBrokerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jetlinks/supports/cluster/EventBusDeviceOperationBrokerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jetlinks/supports/cluster/RedisHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jetlinks/supports/cluster/event/RedisClusterEventBrokerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jetlinks/supports/cluster/event/RedisRSocketEventBrokerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jetlinks/supports/cluster/redis/RedisClusterCounterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jetlinks/supports/cluster/redis/RedisClusterManagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jetlinks/supports/cluster/redis/RedisClusterQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jetlinks/supports/cluster/redis/RedisClusterSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jetlinks/supports/cluster/redis/RedisClusterTopicTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jetlinks/supports/cluster/redis/RedisHaManagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jetlinks/supports/cluster/redis/TestApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jetlinks/supports/config/ClusterConfigStorageManagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jetlinks/supports/config/EventBusStorageManagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jetlinks/supports/event/BrokerEventBusTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jetlinks/supports/official/JetLinksCoapDeviceMessageCodecTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jetlinks/supports/official/JetLinksDeviceMetadataCodecTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jetlinks/supports/official/JetLinksMqttDeviceMessageCodecTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jetlinks/supports/official/JetlinksTopicMessageCodecTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jetlinks/supports/official/cipher/CiphersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jetlinks/supports/official/types/JetLinksBooleanCodecTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jetlinks/supports/protocol/codec/BinaryMessageCodecTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jetlinks/supports/protocol/codec/defaults/HexStringCodecTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jetlinks/supports/protocol/codec/defaults/TwoBytesFloatCodecTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jetlinks/supports/protocol/codec/defaults/TwoBytesHexFloatCodecTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jetlinks/supports/protocol/management/jar/JarProtocolSupportLoaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jetlinks/supports/rpc/DefaultRpcServiceFactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jetlinks/supports/rpc/EventBusRpcServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jetlinks/supports/server/DefaultDecodedClientMessageHandlerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jetlinks/supports/server/DefaultSendToDeviceMessageHandlerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jetlinks/supports/server/session/DefaultDeviceSessionManagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jetlinks/supports/server/session/TestDeviceRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jetlinks/supports/server/session/TestDeviceSession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/jetlinks/supports/utils/MqttTopicUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/jetlinks.metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/protocol-test-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/services/org.jetlinks.core.spi.ProtocolSupportProvider" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/cluster/AbstractDeviceOperationBroker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/cluster/AbstractLocalCache$SimpleEntry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/cluster/AbstractLocalCache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/cluster/ClusterDeviceOperationBroker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/cluster/ClusterDeviceRegistry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/cluster/ClusterLocalCache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/cluster/EventBusDeviceOperationBroker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/cluster/EventBusLocalCache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/cluster/event/AbstractClusterEventBroker$ClusterConnecting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/cluster/event/AbstractClusterEventBroker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/cluster/event/RSocketAddress.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/cluster/event/RSocketPayload.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/cluster/event/RedisClusterEventBroker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/cluster/event/RedisRSocketEventBroker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/cluster/redis/DeviceCheckRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/cluster/redis/DeviceCheckResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/cluster/redis/NotifierMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/cluster/redis/NotifierMessageReply.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/cluster/redis/NotifyException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/cluster/redis/RedisClusterCache$RedisHashEntry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/cluster/redis/RedisClusterCache$RedisSimpleEntry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/cluster/redis/RedisClusterCache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/cluster/redis/RedisClusterCounter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/cluster/redis/RedisClusterManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/cluster/redis/RedisClusterNotifier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/cluster/redis/RedisClusterQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/cluster/redis/RedisClusterSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/cluster/redis/RedisClusterTopic$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/cluster/redis/RedisClusterTopic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/cluster/redis/RedisHaManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/config/ClusterConfigStorage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/config/ClusterConfigStorageManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/config/EventBusStorageManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/config/InMemoryConfigStorage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/config/InMemoryConfigStorageManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/event/BrokerEventBus$SubscriptionInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/event/BrokerEventBus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/event/EventBroker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/event/EventConnection$Feature.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/event/EventConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/event/EventConsumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/event/EventProducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/official/JetLinksAuthenticator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/official/JetLinksCoapDTLSDeviceMessageCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/official/JetLinksCoapDeviceMessageCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/official/JetLinksDataTypeCodecs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/official/JetLinksDeviceFunctionMetadata.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/official/JetLinksDeviceMetadata.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/official/JetLinksDeviceMetadataCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/official/JetLinksEventMetadata.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/official/JetLinksMqttDeviceMessageCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/official/JetLinksPropertyMetadata.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/official/JetLinksProtocolSupportProvider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/official/JetlinksTopicMessageCodec$DecodeResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/official/JetlinksTopicMessageCodec$Decoded.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/official/JetlinksTopicMessageCodec$EncodedTopic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/official/JetlinksTopicMessageCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/official/cipher/Ciphers$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/official/cipher/Ciphers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/official/types/AbstractDataTypeCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/official/types/JetLinksArrayCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/official/types/JetLinksBooleanCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/official/types/JetLinksDateCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/official/types/JetLinksDoubleCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/official/types/JetLinksEnumCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/official/types/JetLinksFileCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/official/types/JetLinksFloatCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/official/types/JetLinksGeoPointCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/official/types/JetLinksGeoShapeCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/official/types/JetLinksIntCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/official/types/JetLinksLongCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/official/types/JetLinksObjectCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/official/types/JetLinksPasswordCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/official/types/JetLinksStringCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/DefaultMqttMessageCodecDescription$DefaultTopic$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/DefaultMqttMessageCodecDescription$DefaultTopic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/DefaultMqttMessageCodecDescription.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/ServiceLoaderProtocolSupports.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/StaticProtocolSupports.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/BinaryCodec$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/BinaryCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/BinaryCodecs$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/BinaryCodecs$Decoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/BinaryCodecs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/BinaryDecoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/BinaryEncoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/BlockingDecoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/BlockingDecoderBuilder$BlockingDecoderDeclaration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/BlockingDecoderBuilder$EventMessageDecoderDeclaration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/BlockingDecoderBuilder$PropertyMessageDecoderDeclaration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/BlockingDecoderBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/BlockingDeviceMessageCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/BlockingEncoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/CodecPredicate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/DefaultBlockingDecoderBuilder$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/DefaultBlockingDecoderBuilder$BlockingDecoderStatement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/DefaultBlockingDecoderBuilder$DefaultBlockingDecoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/DefaultBlockingDecoderBuilder$DefaultBlockingDecoderDeclaration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/DefaultBlockingDecoderBuilder$EventBinaryMessageDecoderDeclaration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/DefaultBlockingDecoderBuilder$ReportPropertyBinaryMessageDecoderDeclaration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/DefaultBlockingDecoderBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/Endian$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/Endian$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/Endian.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/defaults/AppendBinaryDecoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/defaults/BooleanCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/defaults/ByteCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/defaults/FixedValueDecoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/defaults/HexStringCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/defaults/Ieee754DoubleCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/defaults/Ieee754FloatCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/defaults/LongCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/defaults/MapBinaryDecoder$Decoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/defaults/MapBinaryDecoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/defaults/MapDecoderBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/defaults/StringCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/defaults/TwoBytesFloatCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/codec/defaults/TwoBytesHexFloatCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/management/ClusterProtocolSupportManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/management/ManagementProtocolSupports.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/management/MultiProtocolSupportLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/management/ProtocolSupportDefinition$ProtocolSupportDefinitionBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/management/ProtocolSupportDefinition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/management/ProtocolSupportLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/management/ProtocolSupportLoaderProvider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/management/ProtocolSupportManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/management/jar/JarProtocolSupportLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/management/jar/ProtocolClassLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/rpc/DefaultRpcServiceFactory$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/rpc/DefaultRpcServiceFactory$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/rpc/DefaultRpcServiceFactory$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/rpc/DefaultRpcServiceFactory$MethodRpcRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/rpc/DefaultRpcServiceFactory$MethodRpcRequestCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/rpc/DefaultRpcServiceFactory$RpcRequestCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/rpc/DefaultRpcServiceFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/rpc/EventBusRpcService$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/rpc/EventBusRpcService$PendingRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/rpc/EventBusRpcService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/rpc/RpcRequest$Type.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/rpc/RpcRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/rpc/RpcResult$Type.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/rpc/RpcResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/server/ClientMessageHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/server/DecodedClientMessageHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/server/DefaultClientMessageHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/server/DefaultDecodedClientMessageHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/server/DefaultSendToDeviceMessageHandler$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/server/DefaultSendToDeviceMessageHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/server/monitor/MicrometerGatewayServerMetrics.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/server/session/DefaultDeviceSessionManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/utils/MqttTopicUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/jetlinks-supports-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/jetlinks-supports.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/spring.components" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/jetlinks.metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/ServiceLoaderProtocolSupportsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/TestDeviceSession.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/cluster/ClusterDeviceOperationBrokerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/cluster/EventBusDeviceOperationBrokerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/cluster/RedisHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/cluster/event/RedisClusterEventBrokerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/cluster/event/RedisRSocketEventBrokerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/cluster/redis/RedisClusterCounterTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/cluster/redis/RedisClusterManagerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/cluster/redis/RedisClusterQueueTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/cluster/redis/RedisClusterSetTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/cluster/redis/RedisClusterTopicTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/cluster/redis/RedisHaManagerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/cluster/redis/TestApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/config/ClusterConfigStorageManagerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/config/EventBusStorageManagerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/event/BrokerEventBusTest$TestBroker$TestEventConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/event/BrokerEventBusTest$TestBroker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/event/BrokerEventBusTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/official/JetLinksCoapDeviceMessageCodecTest$1$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/official/JetLinksCoapDeviceMessageCodecTest$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/official/JetLinksCoapDeviceMessageCodecTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/official/JetLinksCoapDeviceMessageCodecTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/official/JetLinksDeviceMetadataCodecTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/official/JetLinksMqttDeviceMessageCodecTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/official/JetLinksMqttDeviceMessageCodecTest$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/official/JetLinksMqttDeviceMessageCodecTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/official/JetlinksTopicMessageCodecTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/official/cipher/CiphersTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/official/types/JetLinksBooleanCodecTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/protocol/codec/BinaryMessageCodecTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/protocol/codec/defaults/HexStringCodecTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/protocol/codec/defaults/TwoBytesFloatCodecTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/protocol/codec/defaults/TwoBytesHexFloatCodecTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/protocol/management/jar/JarProtocolSupportLoaderTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/protocol/management/jar/JarProtocolSupportLoaderTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/rpc/DefaultRpcServiceFactoryTest$TestObj.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/rpc/DefaultRpcServiceFactoryTest$TestService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/rpc/DefaultRpcServiceFactoryTest$TestServiceConsumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/rpc/DefaultRpcServiceFactoryTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/rpc/EventBusRpcServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/server/DefaultDecodedClientMessageHandlerTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/server/DefaultDecodedClientMessageHandlerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/server/DefaultSendToDeviceMessageHandlerTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/server/DefaultSendToDeviceMessageHandlerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/server/session/DefaultDeviceSessionManagerTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/server/session/DefaultDeviceSessionManagerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/server/session/TestDeviceRegistry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/server/session/TestDeviceSession.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/utils/MqttTopicUtilsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/protocol-test-1.0-SNAPSHOT.jar" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +509,7 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectId" id="1kzZXfjixsums0O0ngQozYwEpn7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,10 +519,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -63,7 +535,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606705421975</updated>
-      <workItem from="1606705425262" duration="3483000" />
+      <workItem from="1606705425262" duration="4231000" />
     </task>
     <servers />
   </component>
@@ -82,25 +554,33 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="166" key="GridCell.Tab.0.bottom" timestamp="1606708551991">
+    <state x="421" y="86" key="FileChooserDialogImpl" timestamp="1606712492547">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="166" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1606708551991" />
-    <state width="1237" height="166" key="GridCell.Tab.0.center" timestamp="1606708551991">
+    <state x="421" y="86" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1606712492547" />
+    <state width="1237" height="166" key="GridCell.Tab.0.bottom" timestamp="1606712550898">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="166" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1606708551991" />
-    <state width="1237" height="166" key="GridCell.Tab.0.left" timestamp="1606708551991">
+    <state width="1237" height="166" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1606712550898" />
+    <state width="1237" height="166" key="GridCell.Tab.0.center" timestamp="1606712550898">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="166" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1606708551991" />
-    <state width="1237" height="166" key="GridCell.Tab.0.right" timestamp="1606708551991">
+    <state width="1237" height="166" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1606712550898" />
+    <state width="1237" height="166" key="GridCell.Tab.0.left" timestamp="1606712550898">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="166" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1606708551991" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1606705833452">
+    <state width="1237" height="166" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1606712550898" />
+    <state width="1237" height="166" key="GridCell.Tab.0.right" timestamp="1606712550898">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1606705833452" />
+    <state width="1237" height="166" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1606712550898" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1606713194514">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1606713194514" />
+    <state x="339" y="77" width="603" height="536" key="find.popup" timestamp="1606712527413">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="339" y="77" width="603" height="536" key="find.popup/0.0.1280.689@0.0.1280.689" timestamp="1606712527413" />
   </component>
 </project>
