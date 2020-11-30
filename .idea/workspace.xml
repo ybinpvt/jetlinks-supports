@@ -11,13 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77011aaa-be24-4230-8a9a-a3dd7b5aa9e9" name="Default Changelist" comment="update">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/ServiceLoaderProtocolSupports.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/jetlinks/supports/protocol/ServiceLoaderProtocolSupports.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/official/JetLinksProtocolSupportProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/official/JetLinksProtocolSupportProvider.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/ServiceLoaderProtocolSupports.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/jetlinks/supports/protocol/ServiceLoaderProtocolSupports.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/jetlinks-supports-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/jetlinks-supports-sources.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/jetlinks-supports.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/jetlinks-supports.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/ServiceLoaderProtocolSupportsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/jetlinks/supports/ServiceLoaderProtocolSupportsTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606713804574</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1606714034684</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606714034684</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,10 +120,10 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1606713194514" />
-    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1606713814861">
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1606714050046">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1606713814861" />
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1606714050046" />
     <state x="339" y="77" width="603" height="536" key="find.popup" timestamp="1606712527413">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
