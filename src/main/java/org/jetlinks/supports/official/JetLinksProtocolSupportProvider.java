@@ -41,6 +41,11 @@ public class JetLinksProtocolSupportProvider implements ProtocolSupportProvider 
             .add("secureKey", "密钥", "认证签名密钥", new PasswordType());
 
 
+    /**
+     * 初始化消息协议 jetlinks.v1.plus
+     * @param context
+     * @return
+     */
     @Override
     public Mono<CompositeProtocolSupport> create(ServiceContext context) {
         log.warn("内置官方协议支持即将弃用,请使用 https://github.com/jetlinks/jetlinks-official-protocol");
