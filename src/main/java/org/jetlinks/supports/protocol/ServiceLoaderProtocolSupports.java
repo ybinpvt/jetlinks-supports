@@ -44,9 +44,10 @@ public class ServiceLoaderProtocolSupports implements ProtocolSupports {
         ServiceLoader<ProtocolSupportProvider> loader = ServiceLoader.load(ProtocolSupportProvider.class, getClassLoader());
         loader.iterator().forEachRemaining(provider -> {
 
-            provider.create(serviceContext)
+            //noted by ybin 2020年11月30日13点26分 取消初始化消息协议
+            /*provider.create(serviceContext)
                     .doOnNext(pro -> log.debug("found protocol support provider:{}", pro))
-                    .subscribe(supports::register);
+                    .subscribe(supports::register);*/
         });
     }
 }
